@@ -7,4 +7,20 @@ background-color: rgb(251, 167, 243);
 }
 .beneficios{
     text-align: left;
+    background-color: rgb(226, 43, 198);
+    display: inline-block;
+}
+ul{
+   display: inline-block;
+   vertical-align: top;
+   font-size: 20px;
+   margin-right: 35px;
+}
+li{
+    padding: 15px;
+}
+.foto-beneficio {
+    width: 30%;
+    border-radius: 20px; 
+    box-shadow: 2px 2px 4px #000000;
 }
